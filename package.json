@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "element-ui": "git+https://github.com/Bao1994/tect-element-ui.git",
     "vue": "^2.6.11"
   },
   "devDependencies": {
